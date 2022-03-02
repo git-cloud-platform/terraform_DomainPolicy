@@ -3,7 +3,7 @@ variable "organization_name" {
 }
 
 variable "name_prefix" {
-  default = "UCSX_Domain"
+  default = "KHJ_Domain"
 }
 
 variable "fi_model" {
