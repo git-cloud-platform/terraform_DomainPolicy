@@ -2,10 +2,10 @@
 organization_name                       = "CIP"       ///조직변경 default -> CIP
 
 #Provide name to be prefixed for all the policies of Domain Profile
-name_prefix                             = "UCSX_Domain"     //변경
+name_prefix                             = "KHJ_Domain"     //변경
 
 #Name of UCS Domain Profile
-name_of_ucs_domain_profile              = "UCSX_Domain"     //변경
+name_of_ucs_domain_profile              = "KHJ_Domain"     //변경
 
 
 #Provide the FI details which is in IMM
@@ -24,7 +24,7 @@ fc_port_id_end_on-fi-a                          = 16               //변경 4->1
 slot_id_of_switch_for_FC_Uplink_on-fi-a          = 1               //변경
 
 #Cofigure Server Ports
-list_of_server_ports_on-fi-a                    = [17,18]         //변경
+list_of_server_ports_on-fi-a                    = [20,21]         //변경
 slot_id_of_switch_for_server_ports_on-fi-a      = 1               //변경
 
 #Configure Ethernet uplink port-channel on the collection of ports
