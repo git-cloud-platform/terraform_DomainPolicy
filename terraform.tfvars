@@ -2,7 +2,7 @@
 organization_name                       = "CIP"       ///조직변경 default -> CIP
 
 #Provide name to be prefixed for all the policies of Domain Profile
-name_prefix                             = "test_Domain"     //변경
+name_prefix                             = "KHJ_Domain"     //변경
 
 #Name of UCS Domain Profile
 name_of_ucs_domain_profile              = "KHJ_Domain"     //변경
